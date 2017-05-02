@@ -1,2 +1,2 @@
-# antani-signal-time
-Antani signal time
+# antani-timesignal
+Antani time signal
